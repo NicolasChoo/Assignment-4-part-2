@@ -1,0 +1,10 @@
+2026-04-13T13:19:12+00:00 ERROR [Wrapper function error] Error in set_site_transient: addslashes(): Passing null to parameter #1 ($string) of type string is deprecated CONTEXT: {"function":"set_site_transient","0":"woocommerce_new_version","1":null,"2":604800}
+2026-04-13T13:19:28+00:00 ERROR [Wrapper function error] Error in set_site_transient: addslashes(): Passing null to parameter #1 ($string) of type string is deprecated CONTEXT: {"function":"set_site_transient","0":"woocommerce_new_version","1":null,"2":604800}
+2026-04-13T13:19:28+00:00 ERROR Failed to send the log to the remote logging service: A valid URL was not provided.
+2026-04-13T13:20:16+00:00 ERROR [Wrapper function error] Error in set_site_transient: addslashes(): Passing null to parameter #1 ($string) of type string is deprecated CONTEXT: {"function":"set_site_transient","0":"woocommerce_new_version","1":null,"2":604800}
+2026-04-13T13:20:16+00:00 WARNING Remote logging throttled.
+2026-04-13T13:21:16+00:00 ERROR [Wrapper function error] Error in set_site_transient: addslashes(): Passing null to parameter #1 ($string) of type string is deprecated CONTEXT: {"function":"set_site_transient","0":"woocommerce_new_version","1":null,"2":604800}
+2026-04-13T13:21:16+00:00 ERROR Failed to send the log to the remote logging service: A valid URL was not provided.
+2026-04-13T13:22:12+00:00 ERROR [Wrapper function error] Error in set_site_transient: addslashes(): Passing null to parameter #1 ($string) of type string is deprecated CONTEXT: {"function":"set_site_transient","0":"woocommerce_new_version","1":null,"2":604800}
+2026-04-13T13:22:14+00:00 ERROR [Wrapper function error] Error in set_site_transient: addslashes(): Passing null to parameter #1 ($string) of type string is deprecated CONTEXT: {"function":"set_site_transient","0":"woocommerce_new_version","1":null,"2":604800}
+2026-04-13T13:22:14+00:00 WARNING Remote logging throttled.
